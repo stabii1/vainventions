@@ -6,7 +6,7 @@
 
 html {
   width: 100vw;
-  font-family: "Domine", serif;
+  font-family: "Playfair Display", serif;
   font-size: 14px;
 }
 
@@ -62,7 +62,7 @@ section {
 }
 
 span {
-  font-family: 'Libre Baskerville', serif;
+  font-family: "Manrope", sans-serif;
 }
 
 .team {
